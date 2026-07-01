@@ -1,3 +1,4 @@
-# Dapper exam / interactive test tool | מבחן דפר
-
-MIT © 2026 [David Patlas](https://github.com/DavidPatlas-AI)
+# מבחן דפר — Dapper Test
+כלי מבחן אינטראקטיבי.
+**הרצה:** פתח `dapar.html` או `index.html`.
+*(שים לב: כמה קבצים עם שמות פגומים כמו `body { (1) (1).css` — שווה ניקוי)*
